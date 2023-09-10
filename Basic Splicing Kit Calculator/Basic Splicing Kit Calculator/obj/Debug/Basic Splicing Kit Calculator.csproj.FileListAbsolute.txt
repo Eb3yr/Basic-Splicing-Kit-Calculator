@@ -1,0 +1,11 @@
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\bin\Debug\Basic Splicing Kit Calculator.exe.config
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\bin\Debug\Basic Splicing Kit Calculator.exe
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\bin\Debug\Basic Splicing Kit Calculator.pdb
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic Splicing Kit Calculator.csproj.AssemblyReference.cache
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic Splicing Kit Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic_Splicing_Kit_Calculator.Form1.resources
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic_Splicing_Kit_Calculator.Properties.Resources.resources
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic Splicing Kit Calculator.csproj.GenerateResource.cache
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic Splicing Kit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic Splicing Kit Calculator.exe
+C:\Users\adamk\source\repos\Basic Splicing Kit Calculator\Basic Splicing Kit Calculator\obj\Debug\Basic Splicing Kit Calculator.pdb
